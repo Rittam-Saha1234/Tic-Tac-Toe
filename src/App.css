@@ -1,0 +1,11 @@
+:root{
+    --box-color: #b0bec5;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(135deg, #000000, #0f2027, #2c5364);
+    overflow: hidden;
+  }
+    
